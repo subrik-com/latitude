@@ -32,7 +32,7 @@
     "@rollup/pluginutils": "^5.1.0",
     "@sveltejs/adapter-auto": "^3.0.0",
     "@sveltejs/adapter-node": "^4.0.1",
-    "@sveltejs/kit": "^2.4.0",
+    "@sveltejs/kit": "^2.8.3",
     "@sveltejs/vite-plugin-svelte": "^3.0.0",
     "@testing-library/svelte": "^4.1.0",
     "@types/estree": "^1.0.1",
